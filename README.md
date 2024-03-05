@@ -40,7 +40,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a> &nbsp;
     <a href="https://www.facebook.com/sagorsharif.SH/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="32" height="32" />
     </a> &nbsp;
     <a href="https://www.instagram.com/sagor_sharif_/?fbclid=IwAR1NY_swkw2vOYegwfI1hZLPc4x2Nb--bXZBBlw0mURm76Y89rXmTLugjiI" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
