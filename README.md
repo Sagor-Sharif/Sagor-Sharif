@@ -48,7 +48,4 @@
     <a href="https://www.threads.net/@sagor_sharif_" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/1200px-Threads_%28app%29.svg.png" width="32" height="32" />
     </a> &nbsp;
-    <a href="[https://www.threads.net/@sagor_sharif_" target="_blank](https://wa.me/qr/M5MBVAHWU5GTA1)" rel="noreferrer">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/1200px-Threads_%28app%29.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png)" width="32" height="32" />
-    </a> &nbsp;
 </p>
