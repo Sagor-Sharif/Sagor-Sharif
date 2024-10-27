@@ -1,11 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sagor Sharif
 
-## I am Robotics Enthusiast.
+## I am Robotics Enthusiast & competitive programmer.
 
-- 🌍  I'm based in Barishal, Bangladesh
+- 🌍  I live in Barisal, Bangladesh.
 - 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://sagorsharif.com/'>Portfolio</a>
-- 🧠  Currently learning competetive programming and robotics
-- 🤝  I'm open to collaborating on interesting projects as a developer
+- 🧠  Currently learning competetive programming and robotics.
+- 🤝  I'm open to collaborating on interesting projects as a developer.
 
 ### Skills
 
