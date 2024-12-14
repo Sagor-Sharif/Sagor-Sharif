@@ -1,11 +1,11 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sagor Sharif
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sagor Sharif
 
-## I am Robotics Enthusiast & competitive programmer.
+## I am Robotics Enthusiast.
 
-- 🌍  I live in Barisal, Bangladesh.
+- 🌍  I'm based in Barishal, Bangladesh
 - 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://sagorsharif.com/'>Portfolio</a>
-- 🧠  Currently learning competetive programming and robotics.
-- 🤝  I'm open to collaborating on interesting projects as a developer.
+- 🧠  Currently learning competetive programming and robotics
+- 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
 
@@ -36,7 +36,7 @@
 ### Socials
 
 <p align="left"> 
-    <a href=" https://www.linkedin.com/in/sagor-sharif-9327b427b/?originalSubdomain=bd">
+    <a href="https://www.linkedin.com/in/sagor-sharif-9327b427b/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a> &nbsp;
     <a href="https://www.facebook.com/sagorsharif.SH/" target="_blank" rel="noreferrer">
