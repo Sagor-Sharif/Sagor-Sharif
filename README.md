@@ -36,7 +36,7 @@
 ### Socials
 
 <p align="left"> 
-    <a href="[https://www.linkedin.com/in/sagor-sharif-9327b427b/" target="_blank" rel="noreferrer](https://www.linkedin.com/in/sagor-sharif-9327b427b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+    <a href=" https://www.linkedin.com/in/sagor-sharif-9327b427b/?originalSubdomain=bd">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a> &nbsp;
     <a href="https://www.facebook.com/sagorsharif.SH/" target="_blank" rel="noreferrer">
